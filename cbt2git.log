@@ -1,0 +1,15 @@
+2025-04-04 12:35:41.269287 - Received CBT.V508.FILE607.PDS from FILE607.XMI 
+2025-04-04 12:35:41.270104 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE607.PDS, moved to PDS/$$$#DATE
+2025-04-04 12:35:41.270245 - Found $$CHANGE.txt (text/plain) in CBT.V508.FILE607.PDS, moved to PDS/$$CHANGE
+2025-04-04 12:35:41.270380 - Found $$README.txt (text/plain) in CBT.V508.FILE607.PDS, moved to PDS/$$README
+2025-04-04 12:35:41.270503 - Found @FILE607.txt (text/plain) in CBT.V508.FILE607.PDS, moved to PDS/@FILE607
+2025-04-04 12:35:41.270651 - Found CDPG037.jcl (text/plain) in CBT.V508.FILE607.PDS, moved to PDS/CDPG037
+2025-04-04 12:35:41.270791 - Found CDPG1047.jcl (text/plain) in CBT.V508.FILE607.PDS, moved to PDS/CDPG1047
+2025-04-04 12:35:41.270910 - Found CODEPAGE.txt (text/plain) in CBT.V508.FILE607.PDS, moved to PDS/CODEPAGE
+2025-04-04 12:35:41.271078 - Found IND$FILE.xmi (application/xmit) in CBT.V508.FILE607.PDS, moved to PDS/IND$FILE.xmi
+2025-04-04 12:35:41.294851 - Received SBGOLOB.IFIL.LOAD from IND$FILE.xmi 
+2025-04-04 12:35:41.295289 - Found CDPG037.bin (application/octet-stream) in SBGOLOB.IFIL.LOAD, moved to IND$FILE/CDPG037
+2025-04-04 12:35:41.295425 - Found CDPG1047.bin (application/octet-stream) in SBGOLOB.IFIL.LOAD, moved to IND$FILE/CDPG1047
+2025-04-04 12:35:41.295549 - Found CODEPAGE.bin (application/octet-stream) in SBGOLOB.IFIL.LOAD, moved to IND$FILE/CODEPAGE
+2025-04-04 12:35:41.295726 - Found IND$FILE.bin (application/octet-stream) in SBGOLOB.IFIL.LOAD, moved to IND$FILE/IND$FILE
+2025-04-04 12:35:41.296207 - Found JCL.jcl (text/plain) in CBT.V508.FILE607.PDS, moved to PDS/JCL
